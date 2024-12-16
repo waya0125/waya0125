@@ -2,8 +2,11 @@
 
 # It is waya, It was waya.
 
-I am a student studying programming in the Game Department of Yokohama Digital Arts College.  
-Maybe they are programming.
+**Again, maybe they are programming.**
+
+I am currently working for a company and developing various projects as a hobby.  
+Most recently, I have been working on vehicle pack maintenance for RealTrainMod (RTM) and developing mods for RTM.  
+I would like to create the games I created when I was a student again someday, but I have not started yet.
 
 My belonging team: [Kotatsu-RTM](https://github.com/Kotatsu-RTM/), [Team-Smile_waya](https://github.com/team-morumotto/)
 
