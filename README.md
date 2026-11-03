@@ -1,18 +1,20 @@
-![Git_Header](https://user-images.githubusercontent.com/42435123/194705830-2aeda632-b03f-4a01-9f1a-2b5a59bec1b0.jpeg)
-
 # It is waya, It was waya.
 
-**Again, maybe they are programming.**
+While working as an office worker, I casually write code on a whim—sometimes with AI, sometimes by hand.  
+Lately, I’ve been doing not just programming, but also system maintenance and operations.  
+I also dabble lightly in Docker and network infrastructure, working on a wide range of hobby projects.  
+I'm no match for proper programmers or engineers, though (っ◞‸◟c)
 
-I am currently working for a company and developing various projects as a hobby.  
-Most recently, I have been working on vehicle pack maintenance for RealTrainMod (RTM) and developing mods for RTM.  
-I would like to create the games I created when I was a student again someday, but I have not started yet.
+In the past, I focused on maintaining vehicle packs for RealTrainMod (RTM) and developing RTM mods.  
+Recently, I’ve been building all sorts of things: an automated otoMAD archiver using yt-dlp, a music player, a tool for an LCD display mounted on the front of my car, and various internal/private tools.  
+A friend and I hit it off and talked about remaking the games I made back in my student days or starting something brand new, but I haven't gotten around to it yet.
 
-My belonging team: [Kotatsu-RTM](https://github.com/Kotatsu-RTM/).
+**Current Organizations / Teams:**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waya0125&count_private=true&show_icons=true&theme=merko" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waya0125&layout=compact" />
-</a>
+* [Kotatsu-RTM](https://github.com/Kotatsu-RTM/)
+* [Project-WAYAMOTI](https://github.com/project-wayamoti)
+* and more... (GitLab)
+
+**Past Teams:**
+
+* [team-morumotto](https://github.com/team-morumotto/)
